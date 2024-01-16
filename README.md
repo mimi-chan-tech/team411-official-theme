@@ -7,6 +7,14 @@
 
 ![Group 625600](https://github.com/mimi-chan-tech/team411-official-theme/assets/127085707/e581bb09-5a30-462d-8f19-947d9f00ed6d)
 
+## Humberger Menu
+
+![Group 625611](https://github.com/mimi-chan-tech/team411-official-theme/assets/127085707/cc344a66-7d12-4705-9c5f-8aba6e2f80b2)
+
+## Bottom Bar
+
+![Group 625612](https://github.com/mimi-chan-tech/team411-official-theme/assets/127085707/90430c8c-03a8-41bf-b8d2-8b0b7e0e8928)
+
 ## Image
 
 ![Group 625601](https://github.com/mimi-chan-tech/team411-official-theme/assets/127085707/214c4e64-6180-4e71-8773-16acf742e3ad)
